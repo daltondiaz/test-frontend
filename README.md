@@ -1,10 +1,6 @@
 # Desafio Simova
 
-Objetivo desse desafio é criar um painel simples.
-
-## Contexto
-
-O Desafio é criar um Painel simples para poder visualiza e acompanhar funcionários e as últimas atividades. Ao clicar num funcionário é possível ver mais detalhes, como apontamentos de dias anteriores.
+O Desafio é criar um Painel simples para poder visualizar e acompanhar funcionários e suas últimas atividades. Ao clicar num funcionário é possível ver mais detalhes, como boletins(Conjunto de apontamentos) atuais e de dias anteriores.
 
 Cada funcionário tem um boletim (bulletin) por dia com N apontamentos (appointment).
 
@@ -12,7 +8,7 @@ Cada funcionário tem um boletim (bulletin) por dia com N apontamentos (appointm
 
 ## Consumo de dados
 
-- [Atividades] (/assets/data/activities.json)
+- [Atividades](/assets/data/activities.json)
 - [Funcionários](/assets/data/employees.json)
 - [Boletins](/assets/data/bulletins.json)
 
@@ -46,3 +42,5 @@ Cada funcionário tem um boletim (bulletin) por dia com N apontamentos (appointm
 - Mais é menos, mas não seje muito genérico
 - Se atente ao Prazo de Entrega
 - Se não for possível terminar, entregue até onde conseguiu fazer
+- Não se prenda ao que somente foi pedido, se achar necessário pode fazer mudanças no fluxo do painel que na sua opinião fiquem melhores, também explicar porque mudou.
+
